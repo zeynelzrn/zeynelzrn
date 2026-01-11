@@ -1,5 +1,3 @@
-# Merhaba, Ben Zeynel Zeren! 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zeynel%20Zeren&fontSize=80&animation=fadeIn&fontAlign=50" width="100%"/>
   
