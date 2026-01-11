@@ -4,7 +4,7 @@
   <h3>🚀 Computer Engineering Student | Aspiring Software Engineer | Business Analyst</h3>
   
   <p>
-    <a href="https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN">
+    <a href="[https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN](https://www.linkedin.com/in/zeynelzeren/)">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
     </a>
     <a href="mailto:zynlzeren@gmail.com">
