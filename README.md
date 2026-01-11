@@ -1,5 +1,3 @@
-# Merhaba, Ben Zeynel Zeren! 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zeynel%20Zeren&fontSize=80&animation=fadeIn&fontAlign=50" width="100%"/>
   
@@ -79,7 +77,7 @@ Kullandığım teknolojiler ve araçlar:
 | **Rick & Morty Wiki** | Dynamic web app utilizing API to fetch/filter character data. | API, JS |
 | **CarPool** | Ride-sharing application (Graduation Project). | Mobile/Web |
 | **IoT Watchdog** | IoT system monitoring project. | IoT/C++ |
-| **Project Name** | *Buraya yeni proje açıklamanı yazabilirsin.* | Tech Stack |
+| **CampusGo** | Friendship App for University | Dart |
 
 ---
 
