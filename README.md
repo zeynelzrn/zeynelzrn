@@ -1,10 +1,12 @@
+# Merhaba, Ben Zeynel Zeren! 👋
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zeynel%20Zeren&fontSize=80&animation=fadeIn&fontAlign=50" width="100%"/>
   
   <h3>🚀 Computer Engineering Student | Aspiring Software Engineer | Business Analyst</h3>
   
   <p>
-    <a href="[https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN](https://www.linkedin.com/in/zeynelzeren/)">
+    <a href="https://www.linkedin.com/in/zeynelzeren/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
     </a>
     <a href="mailto:zynlzeren@gmail.com">
@@ -75,14 +77,19 @@ Kullandığım teknolojiler ve araçlar:
 | :--- | :--- | :--- |
 | **Taste of Fear** | A horror-themed web experience with a dark, immersive atmosphere. | Web Tech |
 | **Rick & Morty Wiki** | Dynamic web app utilizing API to fetch/filter character data. | API, JS |
+| **CarPool** | Ride-sharing application (Graduation Project). | Mobile/Web |
+| **IoT Watchdog** | IoT system monitoring project. | IoT/C++ |
+| **Project Name** | *Buraya yeni proje açıklamanı yazabilirsin.* | Tech Stack |
 
 ---
 
 ### 📈 GitHub İstatistikleri / Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SENIN-GITHUB-KULLANICI-ADIN&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN-GITHUB-KULLANICI-ADIN&layout=compact&theme=radical&hide_border=true" />
+<a href="https://github.com/zeynelzrn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeynelzrn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynelzrn&layout=compact&theme=radical&hide_border=true" />
+</a>
 </div>
 
 ---
