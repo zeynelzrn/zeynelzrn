@@ -2,7 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zeynel%20Zeren&fontSize=80&animation=fadeIn&fontAlign=50" width="100%"/>
   
   <h3>🚀 Computer Engineering Student | Aspiring Software Engineer | Business Analyst</h3>
-  
+
+  <br>
+  <a href="https://zeynelzeren.online/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Daha_Fazlası_ve_Detaylı_Portfolyom_İçin_Tıkla-zeynelzeren.online-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" height="35"/>
+  </a>
+  <br>
+  <br>
+
   <p>
     <a href="https://www.linkedin.com/in/zeynelzeren/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
